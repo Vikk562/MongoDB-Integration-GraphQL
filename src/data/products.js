@@ -1,3 +1,5 @@
+//testing with hardcoded data
+
 const products = [
   {
     id: "1",
