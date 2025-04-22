@@ -1,0 +1,14 @@
+allows for presized data fetching
+A query language for your API - allows clients to request exactly the data they require
+graphql uses singl endpoints
+
+
+Three types of operations performed in graphql
+1. queries = fetch data
+2. mutation = modify or write data
+3. subscriptiion = real time data
+
+apollo server
+graphql tag to parse graphql queries
+install; graphql
+
